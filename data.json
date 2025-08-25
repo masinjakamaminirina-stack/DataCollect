@@ -3,16 +3,18 @@
   "Pass": "12345",
   "Builder": "DataCollect V1.0",
   "DateDebut": "2025-08-24T12:00:00Z",
-  "DateExpiration": "2026-08-24T12:00:00Z",
+  "DateExpiration": "2025-08-26T12:00:00Z",
   "Signature": "randriamasinjakamaminirina",
   "Ethologie": [
     "migration saisonnière",
     "nidification coloniale",
     "parade nuptiale",
     "alimentation opportuniste",
-    "défense territoriale"
+    "défense territoriale",
+    "combat"
   ],
   "Botanique": [
+    "Inconnue", 
     "Acacia dealbata",
     "Acacia mangium",
     "Adansonia digitata",
