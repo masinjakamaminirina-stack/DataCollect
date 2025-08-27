@@ -1,135 +1,111 @@
 {
-  "Id": "01",
-  "Pass": "12345",
-  "Builder": "DataCollect V1.0",
-  "DateDebut": "2025-08-24T12:00:00Z",
-  "DateExpiration": "2026-08-29T12:00:00Z",
-  "Signature": "randriamasinjakamaminirina",
-  "Ethologie": [
-    "migration saisonnière",
-    "nidification coloniale",
-    "parade nuptiale",
-    "alimentation opportuniste",
-    "défense territoriale"
-  ],
-  "Botanique": [
-    "Adansonia grandidieri",
-    "Ravenala madagascariensis",
-    "Dalbergia maritima",
-    "Euphorbia leuconeura",
-    "Nepenthes madagascariensis"
-  ],
-  "Especes": [
-    "Accipiter francesii",
-    "Acridotheres tristis",
-    "Actophilornis africana",
-    "Aegypius monachus",
-    "Alauda gulgula",
-    "Alcedo cristata",
-    "Alopochen aegyptiaca",
-    "Amaurornis flavirostra",
-    "Anas erythrorhyncha",
-    "Anas melleri",
-    "Anas platyrhynchos",
-    "Anhinga rufa",
-    "Anthus trivialis",
-    "Ardea alba",
-    "Ardea cinerea",
-    "Ardea goliath",
-    "Ardea humbloti",
-    "Ardea purpurea",
-    "Ardeola idae",
-    "Ardeola ralloides",
-    "Asio madagascariensis",
-    "Aythya nyroca",
-    "Balearica regulorum",
-    "Botaurus stellaris",
-    "Bubulcus ibis",
-    "Burhinus vermiculatus",
-    "Calidris alba",
-    "Calidris ferruginea",
-    "Calidris minuta",
-    "Calidris temminckii",
-    "Centropus toulou",
-    "Charadrius hiaticula",
-    "Charadrius pecuarius",
-    "Charadrius thoracicus",
-    "Chlidonias hybrida",
-    "Chlidonias leucopterus",
-    "Chroicocephalus cirrocephalus",
-    "Ciconia abdimii",
-    "Ciconia episcopus",
-    "Cinnyris notatus",
-    "Circus macrourus",
-    "Circus maurus",
-    "Circus pygargus",
-    "Cisticola cherina",
-    "Columba livia",
-    "Columba polleni",
-    "Corvus albus",
-    "Corythornis vintsioides",
-    "Crex crex",
-    "Dendrocygna bicolor",
-    "Dendrocygna viduata",
-    "Egretta ardesiaca",
-    "Egretta dimorpha",
-    "Egretta garzetta",
-    "Egretta gularis",
-    "Egretta intermedia",
-    "Egretta novaehollandiae",
-    "Falco concolor",
-    "Falco peregrinus",
-    "Falco punctatus",
-    "Foudia madagascariensis",
-    "Gallinago gallinago",
-    "Gallinula chloropus",
-    "Glareola pratincola",
-    "Glareola nordmanni",
-    "Gyps rueppelli",
-    "Haliaeetus vocifer",
-    "Himantopus himantopus",
-    "Ixobrychus minutus",
-    "Jacana jacana",
-    "Jacana madagascariensis",
-    "Lanius collaris",
-    "Larida smithii",
-    "Leptoptilos crumenifer",
-    "Limosa limosa",
-    "Merops apiaster",
-    "Merops superciliosus",
-    "Milvus aegyptius",
-    "Motacilla flava",
-    "Motacilla alba",
-    "Mycteria ibis",
-    "Nettapus auritus",
-    "Numenius arquata",
-    "Numenius phaeopus",
-    "Nycticorax nycticorax",
-    "Oxyura maccoa",
-    "Pachyptila belcheri",
-    "Pandion haliaetus",
-    "Pelecanus onocrotalus",
-    "Pelecanus rufescens",
-    "Phalacrocorax africanus",
-    "Philomachus pugnax",
-    "Platalea alba",
-    "Pluvialis squatarola",
-    "Porphyrio porphyrio",
-    "Pternistis rufopictus",
-    "Puffinus bailloni",
-    "Rallus aquaticus",
-    "Recurvirostra avosetta",
-    "Rynchops flavirostris",
-    "Sterna hirundo",
-    "Thalasseus bengalensis",
-    "Tringa nebularia",
-    "Tringa glareola",
-    "Tringa stagnatilis",
-    "Vanellus crassirostris",
-    "Vanellus senegallus",
-    "Zosterops maderaspatanus"
-  ]
-}
+&&§)6k\9a§¤&§|3h#4Q{4f-¤9j¤9j#8i§£%
+&&§¤6Z$1s=0g=0g§¤&§=0g`2e/7n_3w`2e?5h#8i£7h%6g§£%
+&&§#4Q{8i-5m^1c\9a`2e_3w§¤&§%7R$1s?5h$1s@9x*2d^1c^1c`2e/7n?5h&}1o#8i¥¤9j§£%
+&&§%7R$1s?5h`2e%7R`2e&4q{8i?5h§¤&§£7h¤9j£7h*4e-¤9j&1b-£7h*4e}0K¤9j&1b¤¤9j¤9j¤¤9j¤9j.3P§£%
+&&§%7R$1s?5h`2e*1p]4j(6b-5m_3w$1s?5h-5m*2d!4t§¤&§£7h¤9j£7h*4e-¤9j&1b-£7h#2c}0K¤9j&1b¤¤9j¤9j¤¤9j¤9j.3P§£%
+&&§{4f-5m'8y!4t$1s?5h{8i_3w`2e§¤&§_3w$1s!4t\9a_3w-5m$1s%8z$1s=0g-5m!4t+0p$1s@7k$1s%8z$1s%8z-5m!4t-5m_3w-5m!4t$1s§£%
+&&§)6k%8z$1s'8y`2e#8i§¤&§[7j_3w^1c§£%
+&&§)6k%8z$1s'8y`2e£7h§¤&§[7j_3w^1c§£%
+&&§)6k%8z$1s'8y`2e%6g§¤&§[7j_3w^1c§£%
+&&§}0K-5m?5h_3w`2e§¤&§€2z¤6Z&@9x*2d%8z(6b^1c`2e]4j`2e&}0K=0g-5m%8z`2e%8z&4q*2d&?7t$1s!4t$1s%8z&4q*2d^1c*2d%8z$1s?5h:6r§£%
+&&§%7R`2e=0g/7n_3w-5m(6b?5h-5m*2d!4t#8i§¤§!8m~1e_3w`2e_3w&(6b$1s_3w&}0K"3x`2e&¤6Z`2e_3w`2e'8y_3w-5m!4t`2e&^3L{8i!4t\9a§£%
+&&§%7R`2e=0g/7n_3w-5m(6b?5h-5m*2d!4t£7h§¤§!8m~1e_3w`2e_3w&(6b$1s_3w&}0K"3x`2e&¤6Z`2e_3w`2e'8y_3w-5m!4t`2e&^3L{8i!4t\9a§£%
+&&
+&&§*1p?5h"3x*2d^1c*2d'8y-5m`2e§¤&[
+&&&&§%8z-5m'8y_3w$1s?5h-5m*2d!4t&=0g$1s-5m=0g*2d!4t!4t-5m~2e_3w`2e§£%
+&&&&§!4t-5m\9a-5m~6l-5m/7n$1s?5h-5m*2d!4t&/7n*2d^1c*2d!4t-5m$1s^1c`2e§£%
+&&&&§(6b$1s_3w$1s\9a`2e&!4t{8i(6b?5h-5m$1s^1c`2e§£%
+&&&&§$1s^1c-5m%8z`2e!4t?5h$1s?5h-5m*2d!4t&*2d(6b(6b*2d_3w?5h{8i!4t-5m=0g?5h`2e§£%
+&&&&§\9a~1e~6l`2e!4t=0g`2e&?5h`2e_3w_3w-5m?5h*2d_3w-5m$1s^1c`2e§£%
+&&&&§/7n"3x$1s!4t?5h&?5h`2e_3w_3w-5m?5h*2d_3w-5m$1s^1c§£%
+&&&&§_3w`2e(6b*2d=0g&!4t*2d/7n?5h{8i_3w!4t`2e&`2e!4t&\9a*2d_3w?5h*2d-5m_3w§£%
+&&&&§/7n*2d*2d(6b~1e_3w$1s?5h-5m*2d!4t&(6b$1s_3w`2e!4t?5h$1s^1c`2e§
+&&]£%
+
+&&§#4Q*2d?5h$1s!4t-5m)9f{8i`2e§¤&[
+&&&&§)6k!4t/7n*2d!4t!4t{8i`2e§£%
+§%7R`2e/7n*2d\9a~1e§£%
+&&&&§€2z^1c$1s!4t?5h=0g-5m^1c*2d\9a`2e!4t\9a_3w*2d!4t&$1s^1c^1c{8i$1s{8i\9a-5m$1s!4t{8i%8z&]2C-5m^1c^1c-5m`2e_3w=0g§£%
+&&&&§€2z^1c$1s?5h=0g-5m^1c*2d\9a`2e!4t\9a_3w*2d!4t&"3x{8i%8z&4q`2e_3w?5h-5m-5m&]2C-5m^1c^1c-5m`2e_3w=0g§£%
+§€2z^1c^1c{8i$1s{8i\9a-5m$1s&/7n*2d%8z*2d=0g$1s&Ω%7R_3w$1s@7k`2e≈&%7R_3w$1s@7k`2e§£%
+§€2z^1c^1c{8i$1s{8i\9a-5m$1s&%8z*2d!4t?5h$1s'8y!4t$1s/7n-5m-5m&>1V$1s{8i"3x§£%
+§€2z^1c*2d`2e&\9a-5m}1o$1s_3w-5m/7n$1s?5h$1s&€2z¥&#4Q`2e_3w'8y`2e_3w§£%
+§€2z%8z$1s_3w$1s!4t?5h"3x{8i=0g&=0g(6b§£%
+§€2z!4t\9a$1s=0g*2d!4t-5m$1s&_3w{8i&4q_3w*2d=0g?5h-5m(6b$1s&_0N{8i%8z¥&(5Y¥¤6Z-5m`2e_3w_3w`2e§£%
+§€2z!4t\9a$1s=0g*2d!4t-5m$1s&=0g(6b§£%
+§#4Q$1s{8i"3x-5m!4t-5m$1s&'8y_3w$1s!4t\9a-5m\9a-5m`2e_3w-5m&#4Q$1s-5m^1c^1c¥§£%
+§#4Q*2d=0g/7n-5m$1s&^1c*2d!4t'8y-5m~6l*2d^1c-5m$1s&(5Y$1s\9a+0p-?7t*2d{8i=0g?5h¥§£%
+§@9x$1s(6b{8i_3w*2d\9a`2e!4t\9a_3w*2d!4t&$1s!4t\9a_3w*2d:6r`2e!4t=0g`2e&€2z{8i&4q_3w~1e}1o¥§£%
+§@9x`2e\9a_3w`2e^1c*2d(6b=0g-5m=0g&'8y_3w`2e}1o`2e-5m&#4Q$1s-5m^1c^1c¥§£%
+§@9x"3x$1s\9a=0g-5m$1s&'8y_3w`2e}1o`2e-5m&%7R_3w$1s@7k`2e§£%
+§@9x*2d^1c{8i&4q_3w-5m!4t$1s&$1s^1c^1c{8i$1s{8i\9a-5m-5m&Ω(5Y¥&¤6Z`2e_3w_3w-5m`2e_3w≈&@9x$1s(6b{8i_3w*2d!4t§£%
+§@9x*2d^1c{8i&4q_3w-5m!4t$1s&\9a`2e/7n-5m(6b-5m`2e!4t=0g&Ω#4Q$1s-5m^1c^1c¥≈&@9x$1s(6b{8i_3w*2d!4t§£%
+§@9x*2d%8z%8z-5m(6b"3x*2d_3w$1s&"3x{8i%8z&4q`2e_3w?5h-5m-5m&(5Y¥&¤6Z`2e_3w_3w-5m`2e_3w§£%
+§@9x*2d%8z%8z-5m(6b"3x*2d_3w$1s&^1c$1s%8z-5m-5m&(5Y¥&¤6Z`2e_3w_3w-5m`2e_3w§£%
+§@9x*2d%8z%8z-5m(6b"3x*2d_3w$1s&*2d_3w&4q-5m/7n{8i^1c$1s_3w-5m=0g&*1p!4t'8y^1c¥§£%
+§@9x*2d%8z%8z-5m(6b"3x*2d_3w$1s&=0g-5m%8z(6b^1c-5m/7n-5m~6l*2d^1c-5m$1s&(5Y¥&¤6Z`2e_3w_3w-5m`2e_3w§£%
+§@9x_3w*2d?5h*2d!4t&'8y`2e$1s:6r-5m&=4W`2e$1s!4t\9a_3w-5m§£%
+§@9x_3w*2d?5h*2d!4t&%8z$1s!4t$1s%8z(6b`2e?5h=0g$1s`2e&=4W`2e$1s!4t\9a_3w-5m§£%
+§@9x:6r!4t$1s!4t/7n"3x{8i%8z&=0g(6b§£%
+§%7R`2e^1c*2d!4t-5m]4j&~6l^1c*2d_3w-5m&4q{8i!4t\9a$1s&Ω#4Q$1s-5m^1c^1c¥≈&@9x$1s(6b{8i_3w*2d!4t§£%
+§%7R-5m/7n_3w$1s`2e*2d(6b`2e?5h$1s^1c{8i%8z&%8z$1s"3x$1s~6l$1s^1c-5m`2e!4t=0g`2e&Ω?7t¥&¤6Z`2e^1c?5h-5m`2e_3w≈&,6r$1s@7k*2d}1o^1c`2e}1o§£%
+§%7R-5m\9a-5m`2e_3w`2e$1s&?5h_3w*2d^1c^1c-5m-5m&@9x$1s(6b{8i_3w*2d!4t&&&>1V$1s{8i"3x§£%
+§%7R-5m*2d=0g(6b:6r_3w*2d=0g&%8z$1s!4t$1s%8z(6b`2e?5h=0g$1s`2e&(5Y¥&¤6Z`2e_3w_3w-5m`2e_3w§£%
+§*1p"3x_3w`2e?5h-5m$1s&\9a`2e/7n$1s_3w:6r-5m&_0N¥{4f¥&?7t-5m^1c^1c¥§£%
+§*1p_3w"3x`2e?5h-5m$1s&=0g(6b¥§£%
+§*1p_3w-5m*2d^1c$1s`2e!4t$1s&%8z$1s\9a$1s'8y$1s=0g/7n$1s_3w-5m`2e!4t=0g-5m=0g&Ω€2z_3w~2e!4t`2e=0g≈&%7R*2d_3w_3w§£%
+§*1p_3w:6r?5h"3x_3w*2d(6b"3x:6r=0g$1s&$1s`2e=0g/7n{8i^1c-5m!4t$1s&#4Q$1s-5m^1c^1c¥§£%
+§*1p{8i(6b"3x*2d_3w&4q-5m$1s&-5m!4t?5h-5m=0g:6rΩ}1o$1s_3w¥&%8z$1s-5m!4t?5h:6r&¤6Z*2d-5m=0g=0g¥≈§£%
+§*1p{8i(6b"3x*2d_3w&4q-5m$1s&~6l-5m"3x`2e_3w`2e!4t`2e!4t=0g-5m=0g&¤6Z*2d-5m=0g=0g¥§£%
+§*1p{8i(6b"3x*2d_3w&4q-5m$1s&(6b^1c$1s'8y-5m$1s!4t?5h"3x$1s&%7R_3w$1s@7k`2e§£%
+§*1p{8i(6b"3x*2d_3w&4q-5m$1s&=0g?5h`2e!4t*2d/7n^1c$1s\9a$1s&#4Q$1s-5m^1c^1c¥§£%
+§*1p{8i(6b"3x*2d_3w&4q-5m$1s&?5h-5m_3w{8i/7n$1s^1c^1c-5m&=4W¥§£%
+§^3L`2e_3w!4t$1s!4t\9a*2d$1s&%8z$1s\9a$1s'8y$1s=0g/7n$1s_3w-5m`2e!4t=0g-5m=0g&Ω#4Q$1s@7k`2e_3w≈&€2z¥(5Y¥&!8m`2e!4t?5h_3w:6r§£%
+§^3L-5m/7n{8i=0g&=0g$1s@7k$1s^1c$1s}1o$1s_3w{8i%8z&#4Q$1s@7k`2e_3w§£%
+§!8m_3w`2e[7v-5m$1s&'8y_3w`2e}1o`2e-5m&#4Q$1s-5m^1c^1c¥§£%
+§!8m:6r_3w*2d/7n$1s_3w(6b{8i=0g&$1s%8z`2e_3w-5m/7n$1s!4t{8i=0g&_0N$1s/7n)9f¥§£%
+§(5Y{8i%8z&4q`2e_3w?5h-5m`2e^1c^1c$1s&\9a`2e/7n$1s_3w:6r-5m&Ω(5Y*2d/7n"3x_3w¥≈&%7R*2d_3w_3w§£%
+§_0N$1s?5h_3w*2d(6b"3x$1s&%8z$1s"3x$1s~6l$1s^1c`2e!4t=0g-5m=0g&_0N{8i%8z¥&(5Y¥¤6Z`2e_3w_3w-5m`2e_3w§£%
+§?7t`2e^1c$1s!4t*2d]4j`2e_3w{8i=0g&=0g{8i$1s}1o-5m=0g=0g-5m%8z{8i=0g&Ω(5Y*2d%8z*2d^1c^1c`2e&`2e]4j&@9x$1s}1o$1s/7n*2d≈&+2d$1s-5m!4t{8i^1c¥&&&#4Q¥&#4Q_3w`2e%8z`2e_3w§£%
+§§9G`2e*2d&4q`2e'8y{8i`2e$1s&%8z$1s"3x$1s~6l$1s^1c-5m`2e!4t=0g-5m=0g&_0N¥-^3L¥&=4W`2e_3w*2d:6r§£%
+§|3h(6b`2e_3w/7n{8i^1c-5m/7n$1s_3w:6r$1s&\9a`2e/7n$1s_3w:6r-5m&(5Y¥&¤6Z`2e_3w_3w-5m`2e_3w§£%
+§¤6Z$1s/7n"3x:6r(6b*2d\9a-5m{8i%8z&%8z`2e_3w-5m\9a-5m*2d!4t$1s^1c`2e&Ω(5Y¥&¤6Z`2e_3w_3w-5m`2e_3w≈&¤6Z-5m/7n"3x*2d!4t§£%
+§¤6Z"3x:6r=0g$1s^1c-5m=0g&=0g(6b§£%
+§¤6Z*2d{8i(6b$1s_3w?5h-5m$1s&%8z-5m!4t*2d_3w&Ω#4Q*2d+0p`2e_3w≈&?7t$1s_3w/7n"3x$1s!4t\9a§£%
+§>1V"3x-5m'8y*2d;2u{8i%8z&%8z$1s\9a$1s'8y$1s=0g/7n$1s_3w-5m`2e!4t=0g`2e&%7R_3w$1s@7k`2e§£%
+§{4f$1s^1c}1o$1s\9a*2d_3w$1s&$1s!4t'8y{8i=0g?5h-5m~6l*2d^1c-5m$1s&}0K{8i_3w_3w-5m^1c^1c§£%
+§=0g(6b#8i§£%
+§=0g(6b#8i¤9j§£%
+§=0g(6b#8i#8i§£%
+§=0g(6b#8i%6g§£%
+§=0g(6b#8i*4e§£%
+§=0g(6b#8i)3d§£%
+§{4f¤6Z£7h§£%
+§=0g(6b%6g§£%
+§{4f¤6Z*4e§£%
+§{4f¤6Z)3d§£%
+§{4f¤6Z#2c§£%
+§{4f¤6Z&1b§£%
+§=0g(6b@0a§£%
+§=0g(6b(6b#8i£7h§£%
+§{4f?5h`2e_3w`2e*2d=0g(6b`2e_3w%8z{8i%8z&!4t`2e%8z$1s?5h*2d/7n$1s_3w(6b{8i%8z&%7R@9x¥§£%
+§}0K$1s^1c-5m!4t`2e^1c^1c$1s&'8y_3w`2e}1o`2e-5m&%7R$1s!4t'8y{8i:6r§£%
+§}0K`2e_3w%8z-5m!4t$1s^1c-5m$1s&{8i^1c`2e]4j*2d-5m\9a`2e=0g&(5Y¥&¤6Z`2e_3w_3w-5m`2e_3w§£%
+§}0K`2e_3w%8z-5m!4t$1s^1c-5m$1s&=0g`2e:6r_3w-5m'8y-5m-5m&Ω(5Y¥&¤6Z`2e_3w_3w-5m`2e_3w≈&@9x$1s(6b{8i_3w*2d!4t§£%
+§}0K`2e?5h_3w$1s(6b?5h`2e_3w*2d/7n$1s_3w(6b*2d!4t&'8y`2e$1s:6r-5m&(5Y{8i%8z&4q`2e_3w?5h§£%
+§}0K"3x-5m^1c$1s/7n"3x-5m{8i%8z&(6b*2d{8i(6b*2d!4t-5m-5m&€2z{8i&4q_3w~1e}1o¥&&&¤6Z`2e^1c^1c`2e'8y_3w¥§£%
+§[7j!4t/7n$1s_3w-5m!4t$1s&\9a`2e/7n$1s_3w:6r-5m&(5Y{8i%8z&4q`2e_3w?5h&`2e]4j&)6k"3x^1c`2e!4t~6l¥§£%
+§;9M-5m%8z`2e!4t-5m$1s&(6b`2e_3w_3w-5m`2e_3w-5m&@9x$1s}1o$1s/7n*2d&&&+2d`2e_3w$1s{8i\9a_3w`2e!4t§£%
+§.3P$1s!4t?5h"3x*2d]4j:6r^1c{8i%8z&\9a`2e/7n$1s_3w:6r-5m&(5Y¥&¤6Z`2e_3w_3w-5m`2e_3w§
+&&]£%
+
+&&§¤6Z*2d(6b{8i^1c$1s?5h-5m*2d!4t§¤&[
+&&&&§€2z/7n/7n-5m(6b-5m?5h`2e_3w&~6l_3w$1s!4t/7n`2e=0g-5m-5m§£%
+&&&&§€2z/7n_3w-5m\9a*2d?5h"3x`2e_3w`2e=0g&?5h_3w-5m=0g?5h-5m=0g§£%
+&&&&§€2z/7n?5h*2d(6b"3x-5m^1c*2d_3w!4t-5m=0g&$1s~6l_3w-5m/7n$1s!4t$1s§£%
+&&&&§€2z`2e'8y:6r(6b-5m{8i=0g&%8z*2d!4t$1s/7n"3x{8i=0g§£%
+&&&&§€2z^1c$1s{8i\9a$1s&'8y{8i^1c'8y{8i^1c$1s§£%
 &&&&§€2z^1c/7n`2e\9a*2d&/7n_3w-5m=0g?5h$1s?5h$1s§£%
 &&&&§€2z^1c*2d(6b*2d/7n"3x`2e!4t&$1s`2e'8y:6r(6b?5h-5m$1s/7n$1s§£%
 &&&&§€2z%8z$1s{8i_3w*2d_3w!4t-5m=0g&~6l^1c$1s}1o-5m_3w*2d=0g?5h_3w$1s§£%
