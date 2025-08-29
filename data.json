@@ -4,7 +4,7 @@
   "Builder": "DataCollect V1.0",
   "Tarif": "privé",
   "DateDebut": "2025-08-30T12:00:00Z",
-  "DateExpiration": "2025-08-29T12:00:00Z",
+  "DateExpiration": "2025-08-30T12:00:00Z",
   "Signature": "masinjakamaminirina@gmail.com",
   "Ethologie": [
     "migration saisonnière",
@@ -20,6 +20,8 @@
     "Euphorbia leuconeura",
     "Nepenthes madagascariensis"
   ],
+  "Ecologie": [
+    "Bibliographie"]
   "Population": [
     "Accipiter francesii",
     "Acridotheres tristis",
