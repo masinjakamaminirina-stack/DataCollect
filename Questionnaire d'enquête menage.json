@@ -1,0 +1,218 @@
+{
+    "title": "Étude d'Impact du Projet Fanambina",
+    "adresse_mail": "masinjakamaminirina@gmail.com",
+    "organisation": "ONG Fanambinana",
+    "pages": [
+        {
+            "title": "DÉMOGRAPHIE",
+            "questions": [
+                {
+                    "id": "sec_1",
+                    "type": "section",
+                    "label": "DÉMOGRAPHIE"
+                },
+                {
+                    "id": "S1_démo_1",
+                    "type": "text",
+                    "label": "Nom et Prénoms du répondant(e)",
+                    "required": true
+                },
+                {
+                    "id": "S1_démo_2",
+                    "type": "radio_group",
+                    "label": "Sexe",
+                    "required": true,
+                    "options": [
+                        "Masculin",
+                        "Féminin",
+                        "Autre"
+                    ]
+                },
+                {
+                    "id": "S1_démo_3",
+                    "type": "text",
+                    "label": "Date de Naissance (Utiliser le bouton ci-dessus)",
+                    "required": true
+                },
+                {
+                    "id": "S1_démo_4",
+                    "type": "number",
+                    "label": "Age",
+                    "required": true,
+                    "min": 15,
+                    "max": 120
+                },
+                {
+                    "id": "S1_démo_5",
+                    "type": "text",
+                    "label": "Ville de naissance",
+                    "required": true
+                },
+                {
+                    "id": "S1_démo_6",
+                    "type": "radio_group",
+                    "label": "Nationalité",
+                    "required": true,
+                    "options": [
+                        "Malagasy",
+                        "Français",
+                        "Anglais",
+                        "Chinois",
+                        "Autres"
+                    ]
+                },
+                {
+                    "id": "S1_démo_7",
+                    "type": "text",
+                    "label": "Laquelle ?",
+                    "required": true,
+                    "dependsOn": "S1_démo_6",
+                    "showIfValue": "Autres"
+                },
+                {
+                    "id": "S1_démo_8",
+                    "type": "text",
+                    "label": "Adresse du répondant(e)",
+                    "required": true
+                },
+                {
+                    "id": "S1_démo_9",
+                    "type": "radio_group",
+                    "label": "Milieu de résidence actuelle",
+                    "required": true,
+                    "options": [
+                        "Urbain",
+                        "Rural"
+                    ]
+                },
+                {
+                    "id": "S1_démo_10",
+                    "type": "number",
+                    "label": "Depuis combien d'années vivez-vous dans cette commune",
+                    "required": true,
+                    "min": 0,
+                    "max": 120
+                },
+                {
+                    "id": "S1_démo_11",
+                    "type": "radio_group",
+                    "label": "Pourquoi vous êtes venu ici dans cette commune ?",
+                    "required": true,
+                    "options": [
+                        "Je suis ici depuis ma naissance",
+                        "Pour rejoindre ma famille",
+                        "Pour travailler",
+                        "A cause de l'affection",
+                        "Autre"
+                    ]
+                },
+                {
+                    "id": "S1_démo_12",
+                    "type": "text",
+                    "label": "Pour qu'elle raison ?",
+                    "required": true,
+                    "dependsOn": "S1_démo_11",
+                    "showIfValue": "Autre"
+                },
+                {
+                    "id": "S1_démo_13",
+                    "type": "radio_group",
+                    "label": "Dans quelle situation familiale êtes vous actuellement ?",
+                    "required": true,
+                    "options": [
+                        "Célibataire",
+                        "Marié(e)",
+                        "Union libre",
+                        "Divorcé(e)",
+                        "Veuf(ve)"
+                    ]
+                },
+                {
+                    "id": "S1_démo_14",
+                    "type": "radio_group",
+                    "label": "Vous habitez comment ?",
+                    "required": true,
+                    "options": [
+                        "Solitaire",
+                        "Avec ma famille",
+                        "Avec mes parents",
+                        "Avec d'autres que parents et famille"
+                    ]
+                },
+                {
+                    "id": "S1_démo_15",
+                    "type": "number",
+                    "label": "Vous êtes combien dans ce menage",
+                    "required": true,
+                    "min": 1,
+                    "max": 1000
+                },
+                {
+                    "id": "S1_démo_16",
+                    "type": "radio_group",
+                    "label": "Êtes vous le chef de ménage ?",
+                    "required": true,
+                    "options": [
+                        "Oui",
+                        "Non"
+                    ]
+                },
+                {
+                    "id": "S1_démo_17",
+                    "type": "text",
+                    "label": "Quel est le lien avec le chef de ménage ?",
+                    "required": true,
+                    "dependsOn": "S1_démo_16",
+                    "showIfValue": "Non"
+                },
+                {
+                    "id": "S1_démo_18",
+                    "type": "radio_group",
+                    "label": "De quel sexe est il (elle) le chef de menage",
+                    "required": true,
+                    "options": [
+                        "Masculin",
+                        "Femin",
+                        "Autre"
+                    ],
+                    "dependsOn": "S1_démo_16",
+                    "showIfValue": "Non"
+                },
+                {
+                    "id": "S1_démo_19",
+                    "type": "radio_group",
+                    "label": "Avez vous déjà un ou des enfants ailleurs ou dans ce menage ?",
+                    "required": true,
+                    "options": [
+                        "Oui",
+                        "Non"
+                    ]
+                },
+                {
+                    "id": "S1_démo_20",
+                    "type": "number",
+                    "label": "Combien d'enfants avez vous ?",
+                    "required": true,
+                    "min": 1,
+                    "max": 100,
+                    "dependsOn": "S1_démo_19",
+                    "showIfValue": "Oui"
+                },
+                {
+                    "id": "S1_démo_21",
+                    "type": "number",
+                    "label": "Quel âge a-t-il le dernier ?",
+                    "required": true,
+                    "min": 0,
+                    "max": 100,
+                    "dependsOn": "S1_démo_19",
+                    "showIfValue": "Oui"
+                }
+            ]
+        }
+    ]
+} }
+    ]
+} }
+    ]
+}
